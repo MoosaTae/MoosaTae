@@ -19,8 +19,6 @@
 - Student at Chulalongkorn University(Computer Engineering and Digital Technology)
 - Large Language Model Engineering Internship [OpenThaiGPT](https://openthaigpt.aieat.or.th)
 
-## 🏆 Achievement
-- Bronze Medal ([18th Thailand Olympiad in Informatics](https://www.facebook.com/toi18.cmu) (2022))
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moosatae&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moosatae&theme=dark&hide_border=false)<br/>
