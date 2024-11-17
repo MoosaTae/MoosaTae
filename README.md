@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there, welcome to Sadit's profile. 👋
+  Hi there, welcome to MoosaTae's profile. 👋💪
 </h2>
 
 <p align="center">
@@ -15,9 +15,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 🏆 Achievements
-- 🥉 Bronze Medal (18th Thailand Olympiad in Informatics - 2022)
-- 🥉 Bronze Medal (Super AI Engineer Season 3 - 2023)
+## 🏆 Experiences
+- data anylytics of SCB
+- large language model of OpenThaiGPT (internship 2023)
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moosatae&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
