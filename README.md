@@ -1,6 +1,9 @@
 <h2 align="center">
   Hi there, welcome to MoosaTae's profile. 👋💪
 </h2>
+## About me
+
+I'm a passionate software developer with a keen interest in open-source projects and collaborative coding. I enjoy exploring new technologies and continuously improving my skill set.
 
 <p align="center">
 <a href="mailto:sadhis.tae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white", height=20></a>
