@@ -3,7 +3,6 @@
 </h2>
 <p align="center">
 <a href="mailto:sadhis.tae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white", height=20></a>
-<a href="https://instagram.com/moosa.tae"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sadhis-wongprayoon/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
 
